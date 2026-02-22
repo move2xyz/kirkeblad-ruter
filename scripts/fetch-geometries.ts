@@ -35,7 +35,7 @@ const NAME_OVERRIDES: Record<string, string> = {
   "Jens Langes gade": "Jens Langes Gade",
   "Ane Dams gade": "Ane Dams Gade",
   "Gammel Østergade": "Gammel Østergade",
-  "Kirke Allé": "Kirke Allé",
+  "Kirke Allé": "Kirke Alle",
   "Torvet 6": "Torvet",
   "Kamiliegården": "Kamillegården",
   "A.C. Jacobsensvej": "A.C. Jacobsens Vej",

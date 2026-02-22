@@ -320,6 +320,34 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kirke Allé",
+        "streetIndex": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9200516,
+            57.0603321
+          ],
+          [
+            9.9211501,
+            57.0599864
+          ],
+          [
+            9.9214,
+            57.0598981
+          ],
+          [
+            9.9213372,
+            57.05984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Thovald Jensensvej",
         "streetIndex": 0
       },
@@ -338,20 +366,6 @@
             9.921428,
             57.0618855
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kirke Allé",
-        "streetIndex": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9207681,
-          57.0601066
         ]
       }
     }
