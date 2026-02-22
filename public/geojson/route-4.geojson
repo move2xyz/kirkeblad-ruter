@@ -1056,6 +1056,38 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bejlerstræde",
+        "streetIndex": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9207177,
+            57.0600403
+          ],
+          [
+            9.920338,
+            57.0596089
+          ],
+          [
+            9.9205559,
+            57.0594969
+          ],
+          [
+            9.9206297,
+            57.0594028
+          ],
+          [
+            9.9205463,
+            57.0592738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Zieglersvej",
         "streetIndex": 1
       },

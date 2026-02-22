@@ -39,12 +39,12 @@ const NAME_OVERRIDES: Record<string, string> = {
   "Torvet 6": "Torvet",
   "Kamiliegården": "Kamillegården",
   "A.C. Jacobsensvej": "A.C. Jacobsens Vej",
-  "P.P. Hedegårdsvej": "Peder P. Hedegaards Vej",
+  "P.P. Hedegårdsvej": "Peder P. Hedegårds Vej",
   "Lars Dyrskjøts Vej": "Lars Dyrskøts Vej",
   "Sankt Pedersgade": "Sankt Peders Gade",
   "Holger Trydesvej": "Holger Trydes Vej",
   "Dronnings Tværgade": "Dronningens Tværgade",
-  "Kronprinsens Allé": "Kronprinsens Allé",
+  "Kronprinsens Allé": "Kronprinsens Alle",
   "Carl Klitgårdsvej": "Carl Klitgaards Vej",
   "Laurits Haugesvej": "Laurits Hauges Vej",
   "Præstevænget": "Præstevænge",
@@ -52,6 +52,8 @@ const NAME_OVERRIDES: Record<string, string> = {
   "Dronningsgade": "Dronningensgade",
   "Rømershave": "Rømers Have",
   "Søndre Kongegade": "Søndre Kongevej",
+  "Thuensvej": "Thuresensvej",
+  "Bejlerstræde": "Beilerstræde",
 };
 
 async function sleep(ms: number): Promise<void> {

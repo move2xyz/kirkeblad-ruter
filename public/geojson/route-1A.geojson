@@ -712,6 +712,86 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kronprinsens Allé",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9334943,
+            57.0605286
+          ],
+          [
+            9.933567,
+            57.0604626
+          ],
+          [
+            9.9337653,
+            57.0602854
+          ],
+          [
+            9.9338109,
+            57.0601664
+          ],
+          [
+            9.9337983,
+            57.0600627
+          ],
+          [
+            9.9335266,
+            57.0593203
+          ],
+          [
+            9.9331677,
+            57.0583244
+          ],
+          [
+            9.9329788,
+            57.057799
+          ],
+          [
+            9.9328202,
+            57.0573575
+          ],
+          [
+            9.9327177,
+            57.0570725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kronprinsens Allé",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9328202,
+            57.0573575
+          ],
+          [
+            9.9324379,
+            57.0574025
+          ],
+          [
+            9.9322683,
+            57.0573899
+          ],
+          [
+            9.9321678,
+            57.0571373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Holger Trydesvej",
         "streetIndex": 3
       },
@@ -730,20 +810,6 @@
             9.9360602,
             57.0595269
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kronprinsens Allé",
-        "streetIndex": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9333567,
-          57.0588488
         ]
       }
     }
