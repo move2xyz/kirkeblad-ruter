@@ -360,7 +360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "P.P. Hedegårdsvej",
+        "name": "Peder P. Hedegårds Vej",
         "streetIndex": 1
       },
       "geometry": {
@@ -400,7 +400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "P.P. Hedegårdsvej",
+        "name": "Peder P. Hedegårds Vej",
         "streetIndex": 1
       },
       "geometry": {
@@ -444,7 +444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "P.P. Hedegårdsvej",
+        "name": "Peder P. Hedegårds Vej",
         "streetIndex": 1
       },
       "geometry": {
@@ -464,7 +464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thuensvej",
+        "name": "Thuresensvej",
         "streetIndex": 2
       },
       "geometry": {
@@ -508,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thuensvej",
+        "name": "Thuresensvej",
         "streetIndex": 2
       },
       "geometry": {
@@ -540,7 +540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thuensvej",
+        "name": "Thuresensvej",
         "streetIndex": 2
       },
       "geometry": {
