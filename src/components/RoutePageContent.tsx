@@ -3,6 +3,7 @@
 import dynamic from "next/dynamic";
 import StreetList from "@/components/StreetList";
 import FeedbackSection from "@/components/FeedbackSection";
+import InfoSection from "@/components/InfoSection";
 import type { Route } from "@/types";
 
 const RouteMap = dynamic(() => import("@/components/RouteMap"), {
@@ -66,8 +67,13 @@ export default function RoutePageContent({ route }: RoutePageContentProps) {
       )}
 
       {/* Feedback */}
-      <section className="mb-8">
+      <section className="mb-6">
         <FeedbackSection routeId={route.id} />
+      </section>
+
+      {/* Practical Info */}
+      <section className="mb-8">
+        <InfoSection />
       </section>
     </>
   );

@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import Image from "next/image";
 import Link from "next/link";
 import RoutePageContent from "@/components/RoutePageContent";
 import type { Route } from "@/types";
@@ -39,12 +40,23 @@ export default async function RoutePage({
       </Link>
 
       <header className="mb-4">
-        <h1 className="text-2xl font-bold text-slate-900">
-          Rute {route.id}
-        </h1>
-        <p className="text-sm text-slate-500 mt-1">
-          {route.antalBlade} blade &middot; {route.streets.length} gader
-        </p>
+        <div className="flex items-center gap-3 mb-1">
+          <Image
+            src="/logo.png"
+            alt="Nørresundby Spejderne"
+            width={100}
+            height={40}
+            className="shrink-0"
+          />
+          <div>
+            <h1 className="text-2xl font-bold text-slate-900">
+              Rute {route.id}
+            </h1>
+            <p className="text-sm text-slate-500 mt-1">
+              {route.antalBlade} blade &middot; {route.streets.length} gader
+            </p>
+          </div>
+        </div>
       </header>
 
       <RoutePageContent route={route} />
