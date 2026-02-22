@@ -2,13 +2,12 @@ interface FeedbackSectionProps {
   routeId: string;
 }
 
-// Google Forms URLs - replace with your actual form URLs
-const DONE_FORM_BASE = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform";
-const PROBLEM_FORM_BASE = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform";
+const DONE_FORM_BASE = "https://docs.google.com/forms/d/e/1FAIpQLScSRHALdTCemqkR5kZy58dbnP58ONssZkny9kadSf1SlwsDKw/viewform";
+const PROBLEM_FORM_BASE = "https://docs.google.com/forms/d/e/1FAIpQLSd1IRpdp5IGeT4G4thtlqu1oZiXdInqaWA7h_fOTXpqvzkgKg/viewform";
 
 export default function FeedbackSection({ routeId }: FeedbackSectionProps) {
-  const doneUrl = `${DONE_FORM_BASE}?usp=pp_url&entry.FIELD_ID=Rute+${encodeURIComponent(routeId)}`;
-  const problemUrl = `${PROBLEM_FORM_BASE}?usp=pp_url&entry.FIELD_ID=Rute+${encodeURIComponent(routeId)}`;
+  const doneUrl = `${DONE_FORM_BASE}?usp=pp_url&entry.429179671=Rute+${encodeURIComponent(routeId)}`;
+  const problemUrl = `${PROBLEM_FORM_BASE}?usp=pp_url&entry.1431420155=Rute+${encodeURIComponent(routeId)}`;
 
   return (
     <div className="space-y-3">
