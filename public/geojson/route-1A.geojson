@@ -812,6 +812,41 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [9.9347, 57.0553],
+          [9.9347, 57.0555],
+          [9.9348, 57.0556],
+          [9.9351, 57.0556],
+          [9.9351, 57.0559],
+          [9.9352, 57.0560],
+          [9.9352, 57.0564],
+          [9.9356, 57.0564],
+          [9.9356, 57.0566]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [9.9356, 57.0564],
+          [9.9363, 57.0564]
+        ]
+      }
     }
   ]
 }
