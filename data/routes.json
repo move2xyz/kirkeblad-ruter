@@ -95,7 +95,7 @@
       }
     ],
     "notes": [],
-    "koder": "Stigsborg Brygge \n(dørkode #2412)"
+    "koder": "Stigsborg Brygge nr. 169 og deromkring\nDørkode: #2412#"
   },
   {
     "id": "2",
@@ -198,7 +198,10 @@
         "details": null
       }
     ],
-    "notes": [],
+    "notes": [
+      "Østerbrogade over pizzeria — mange lejligheder",
+      "Skrågade nr. 13-29: indgang bag bager Pilgaard!"
+    ],
     "koder": "Skrågade nr. 35 \nKode: 9435"
   },
   {
@@ -346,10 +349,12 @@
       {
         "type": "street",
         "name": "Havnegade",
-        "details": "alle boliger på pierren"
+        "details": "alle boliger på pierren (alt på havnen bag Brugsen)"
       }
     ],
-    "notes": [],
+    "notes": [
+      "Torvet 6 har ca. 50 postkasser"
+    ],
     "koder": "Torvet 6 - ring på hos \nGerda Andersen/ \nIvar Fanø eller \nBirgit Jacobsen"
   },
   {
@@ -375,7 +380,7 @@
       {
         "type": "street",
         "name": "Lille Borgergade",
-        "details": null
+        "details": "begge sider af Engvej"
       },
       {
         "type": "street",
@@ -442,10 +447,11 @@
       }
     ],
     "notes": [
-      "Ella Marie plejehjemmet"
+      "Ella Marie plejehjem — aflever i beboernes postkasser",
+      "Vestergade 57 — vær opmærksom"
     ],
     "koder": null,
-    "routeNote": "Postkasser lige indenfor døren \nmod Vestergade 36, hvis der er låst \nkan man komme ind fra p-pladsen \npå den anden side af bygningen"
+    "routeNote": "Ella Marie plejehjem: postkasser lige indenfor døren mod Vestergade 36. Hvis der er låst, kan man komme ind fra p-pladsen på den anden side af bygningen."
   },
   {
     "id": "10A",
@@ -547,7 +553,7 @@
       }
     ],
     "notes": [
-      "50 blade afleveres til Fremtidens Plejehjem"
+      "Fremtidens Plejehjem — aflever en stak, beboerne henter selv"
     ],
     "koder": null
   }
