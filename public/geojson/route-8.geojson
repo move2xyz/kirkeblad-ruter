@@ -716,6 +716,94 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mølmdalsvej",
+        "streetIndex": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9377554,
+            57.0565426
+          ],
+          [
+            9.9377838,
+            57.0575284
+          ],
+          [
+            9.9366775,
+            57.0575593
+          ],
+          [
+            9.9365102,
+            57.0575637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digmansvej",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9363048,
+            57.0575641
+          ],
+          [
+            9.9362479,
+            57.0572054
+          ],
+          [
+            9.9362092,
+            57.056981
+          ],
+          [
+            9.9361717,
+            57.0567638
+          ],
+          [
+            9.9361416,
+            57.0565608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digmansvej",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.936036,
+            57.0575815
+          ],
+          [
+            9.9363048,
+            57.0575641
+          ],
+          [
+            9.9365102,
+            57.0575637
+          ],
+          [
+            9.9366209,
+            57.0580912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teisensvej",
         "streetIndex": 1
       },

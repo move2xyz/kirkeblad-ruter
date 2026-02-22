@@ -4,6 +4,106 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dronningsgade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9326161,
+            57.060263
+          ],
+          [
+            9.9326325,
+            57.0601853
+          ],
+          [
+            9.9326331,
+            57.0601298
+          ],
+          [
+            9.9326076,
+            57.0600191
+          ],
+          [
+            9.9324206,
+            57.0597018
+          ],
+          [
+            9.9323438,
+            57.05959
+          ],
+          [
+            9.9322188,
+            57.0594079
+          ],
+          [
+            9.9319337,
+            57.0589721
+          ],
+          [
+            9.9316776,
+            57.0585806
+          ],
+          [
+            9.9305165,
+            57.0568419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dronningsgade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9322188,
+            57.0594079
+          ],
+          [
+            9.9331534,
+            57.0592294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dronningsgade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9324206,
+            57.0597018
+          ],
+          [
+            9.9330904,
+            57.0595678
+          ],
+          [
+            9.9334142,
+            57.0600779
+          ],
+          [
+            9.9332721,
+            57.0601322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dronnings Tværgade",
         "streetIndex": 1
       },

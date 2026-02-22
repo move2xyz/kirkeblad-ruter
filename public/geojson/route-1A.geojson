@@ -112,6 +112,34 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Præstevænget",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9346245,
+            57.0592802
+          ],
+          [
+            9.9353762,
+            57.0592142
+          ],
+          [
+            9.9360602,
+            57.0595269
+          ],
+          [
+            9.9376202,
+            57.0602378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cementvej",
         "streetIndex": 6
       },
@@ -677,6 +705,30 @@
           [
             9.937053,
             57.0550819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holger Trydesvej",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.935659,
+            57.0581394
+          ],
+          [
+            9.9360803,
+            57.0594621
+          ],
+          [
+            9.9360602,
+            57.0595269
           ]
         ]
       }

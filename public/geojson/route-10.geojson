@@ -28,6 +28,90 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Laurits Haugesvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9161658,
+            57.0608901
+          ],
+          [
+            9.9160564,
+            57.0607952
+          ],
+          [
+            9.9160331,
+            57.0607765
+          ],
+          [
+            9.915437,
+            57.0602579
+          ],
+          [
+            9.9153636,
+            57.0602127
+          ],
+          [
+            9.9151359,
+            57.0600104
+          ],
+          [
+            9.9150966,
+            57.0599858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurits Haugesvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.915437,
+            57.0602579
+          ],
+          [
+            9.9167462,
+            57.0598216
+          ],
+          [
+            9.9169125,
+            57.0599587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurits Haugesvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9162249,
+            57.0609387
+          ],
+          [
+            9.9161658,
+            57.0608901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Carl Klitgårdsvej",
         "streetIndex": 1
       },

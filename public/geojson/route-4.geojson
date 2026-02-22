@@ -704,6 +704,214 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Søndre Kongegade",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9423666,
+            57.063878
+          ],
+          [
+            9.9421198,
+            57.0636492
+          ],
+          [
+            9.941655,
+            57.0632595
+          ],
+          [
+            9.9413505,
+            57.0630197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Søndre Kongegade",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.941107,
+            57.0630463
+          ],
+          [
+            9.9409679,
+            57.0630879
+          ],
+          [
+            9.9401598,
+            57.0632446
+          ],
+          [
+            9.9396249,
+            57.0633733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Søndre Kongegade",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9411852,
+            57.0628855
+          ],
+          [
+            9.9410675,
+            57.0629724
+          ],
+          [
+            9.941107,
+            57.0630463
+          ],
+          [
+            9.9412787,
+            57.0633024
+          ],
+          [
+            9.941334,
+            57.0633137
+          ],
+          [
+            9.941439,
+            57.0633352
+          ],
+          [
+            9.9415037,
+            57.0633756
+          ],
+          [
+            9.9415591,
+            57.0634768
+          ],
+          [
+            9.941607,
+            57.0634989
+          ],
+          [
+            9.9417638,
+            57.063544
+          ],
+          [
+            9.9418979,
+            57.063728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Søndre Kongegade",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9418979,
+            57.063728
+          ],
+          [
+            9.9412525,
+            57.063943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Søndre Kongegade",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.941439,
+            57.0633352
+          ],
+          [
+            9.941655,
+            57.0632595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Søndre Kongegade",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9413505,
+            57.0630197
+          ],
+          [
+            9.9411852,
+            57.0628855
+          ],
+          [
+            9.9408461,
+            57.0626012
+          ],
+          [
+            9.9405373,
+            57.0623745
+          ],
+          [
+            9.9401989,
+            57.0621721
+          ],
+          [
+            9.9397638,
+            57.0619295
+          ],
+          [
+            9.9392417,
+            57.0616787
+          ],
+          [
+            9.9385524,
+            57.061405
+          ],
+          [
+            9.9378538,
+            57.0611445
+          ],
+          [
+            9.9371321,
+            57.0608738
+          ],
+          [
+            9.9367764,
+            57.0607188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Strandgade",
         "streetIndex": 6
       },

@@ -25,28 +25,33 @@ interface Route {
 }
 
 // Bounding box for Nørresundby
-const BBOX = "57.04,9.89,57.08,9.95";
+const BBOX = "57.03,9.88,57.09,9.96";
 
 // Map of Excel street names → OSM street names (where they differ)
 const NAME_OVERRIDES: Record<string, string> = {
   "Niels Lykkesgade": "Niels Lykkes Gade",
-  "Thovald Jensensvej": "Thorvald Jensensvej",
-  "Mølmdalsvej": "Mølholmdalsvej",
+  "Thovald Jensensvej": "Thorvald Jensens Vej",
+  "Mølmdalsvej": "Mølndalsvej",
   "Jens Langes gade": "Jens Langes Gade",
-  "Ane Dams gade": "Ane Damsgade",
-  "Gammel Østergade": "Gl. Østergade",
-  "Kirke Allé": "Kirkealléen",
+  "Ane Dams gade": "Ane Dams Gade",
+  "Gammel Østergade": "Gammel Østergade",
+  "Kirke Allé": "Kirke Allé",
   "Torvet 6": "Torvet",
   "Kamiliegården": "Kamillegården",
   "A.C. Jacobsensvej": "A.C. Jacobsens Vej",
-  "P.P. Hedegårdsvej": "P.P. Hedegaards Vej",
-  "Lars Dyrskjøts Vej": "Lars Dyrskjøts Gade",
-  "Sankt Pedersgade": "Skt. Peders Gade",
-  "Holger Trydesvej": "Holger Trydsvej",
+  "P.P. Hedegårdsvej": "Peder P. Hedegaards Vej",
+  "Lars Dyrskjøts Vej": "Lars Dyrskøts Vej",
+  "Sankt Pedersgade": "Sankt Peders Gade",
+  "Holger Trydesvej": "Holger Trydes Vej",
   "Dronnings Tværgade": "Dronningens Tværgade",
-  "Kronprinsens Allé": "Kronprinsessegade",
+  "Kronprinsens Allé": "Kronprinsens Allé",
   "Carl Klitgårdsvej": "Carl Klitgaards Vej",
-  "Laurits Haugesvej": "Lauritz Hauges Vej",
+  "Laurits Haugesvej": "Laurits Hauges Vej",
+  "Præstevænget": "Præstevænge",
+  "Digmansvej": "Digmannsvej",
+  "Dronningsgade": "Dronningensgade",
+  "Rømershave": "Rømers Have",
+  "Søndre Kongegade": "Søndre Kongevej",
 };
 
 async function sleep(ms: number): Promise<void> {
