@@ -1,0 +1,409 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Parkvej",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9403811,
+            57.0575046
+          ],
+          [
+            9.9403524,
+            57.0574431
+          ],
+          [
+            9.9400222,
+            57.0567239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Parkvej",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9398076,
+            57.0558573
+          ],
+          [
+            9.9399096,
+            57.0561001
+          ],
+          [
+            9.9399917,
+            57.0562842
+          ],
+          [
+            9.940037,
+            57.0563856
+          ],
+          [
+            9.9401802,
+            57.0567037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Parkvej",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.941671,
+            57.0565118
+          ],
+          [
+            9.9409755,
+            57.0566058
+          ],
+          [
+            9.9401802,
+            57.0567037
+          ],
+          [
+            9.9400222,
+            57.0567239
+          ],
+          [
+            9.9387273,
+            57.0568781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Parkvej",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9412703,
+            57.0572807
+          ],
+          [
+            9.9409755,
+            57.0566058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Parkvej",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9412703,
+            57.0572807
+          ],
+          [
+            9.9410994,
+            57.057317
+          ],
+          [
+            9.9403811,
+            57.0575046
+          ],
+          [
+            9.9404418,
+            57.0576767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bakke",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9407071,
+            57.058277
+          ],
+          [
+            9.9390366,
+            57.0584817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bakke",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9404418,
+            57.0576767
+          ],
+          [
+            9.9404552,
+            57.057707
+          ],
+          [
+            9.9407071,
+            57.058277
+          ],
+          [
+            9.9409809,
+            57.0588452
+          ],
+          [
+            9.9392926,
+            57.0590591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9388803,
+            57.0578733
+          ],
+          [
+            9.9389931,
+            57.0581917
+          ],
+          [
+            9.9390366,
+            57.0584817
+          ],
+          [
+            9.9390663,
+            57.0586769
+          ],
+          [
+            9.9391123,
+            57.058841
+          ],
+          [
+            9.9391098,
+            57.0588937
+          ],
+          [
+            9.9390574,
+            57.0589466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9383147,
+            57.0551897
+          ],
+          [
+            9.9384577,
+            57.0558378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.938207,
+            57.0545046
+          ],
+          [
+            9.9382198,
+            57.0545933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9390574,
+            57.0589466
+          ],
+          [
+            9.9387137,
+            57.0591648
+          ],
+          [
+            9.9386692,
+            57.0591929
+          ],
+          [
+            9.9385041,
+            57.0593072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9387273,
+            57.0568781
+          ],
+          [
+            9.9387537,
+            57.0571665
+          ],
+          [
+            9.938777,
+            57.0575241
+          ],
+          [
+            9.9388803,
+            57.0578733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9386083,
+            57.0565199
+          ],
+          [
+            9.9387273,
+            57.0568781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9382198,
+            57.0545933
+          ],
+          [
+            9.9383147,
+            57.0551897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Bygade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9384577,
+            57.0558378
+          ],
+          [
+            9.9386083,
+            57.0565199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkvænget",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9404418,
+            57.0576767
+          ],
+          [
+            9.9388803,
+            57.0578733
+          ]
+        ]
+      }
+    }
+  ]
+}

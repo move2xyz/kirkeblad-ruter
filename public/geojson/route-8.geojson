@@ -1,0 +1,745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limfjordsvej",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9351689,
+            57.0565705
+          ],
+          [
+            9.9345966,
+            57.0565715
+          ],
+          [
+            9.9343634,
+            57.0565805
+          ],
+          [
+            9.9341762,
+            57.0565878
+          ],
+          [
+            9.9332661,
+            57.056669
+          ],
+          [
+            9.9329265,
+            57.0566987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limfjordsvej",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9361416,
+            57.0565608
+          ],
+          [
+            9.9364154,
+            57.0565582
+          ],
+          [
+            9.9367972,
+            57.0565545
+          ],
+          [
+            9.937115,
+            57.0565496
+          ],
+          [
+            9.9374222,
+            57.0565477
+          ],
+          [
+            9.9377554,
+            57.0565426
+          ],
+          [
+            9.9386083,
+            57.0565199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limfjordsvej",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9361416,
+            57.0565608
+          ],
+          [
+            9.9359266,
+            57.0565622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limfjordsvej",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9359266,
+            57.0565622
+          ],
+          [
+            9.9356344,
+            57.0565642
+          ],
+          [
+            9.9351689,
+            57.0565705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lille Borgergade",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9273838,
+            57.0585075
+          ],
+          [
+            9.9274137,
+            57.0583874
+          ],
+          [
+            9.9273865,
+            57.0583145
+          ],
+          [
+            9.927102,
+            57.0580117
+          ],
+          [
+            9.9269736,
+            57.0578569
+          ],
+          [
+            9.9268411,
+            57.0577041
+          ],
+          [
+            9.9266441,
+            57.0574769
+          ],
+          [
+            9.926611,
+            57.0574388
+          ],
+          [
+            9.9265702,
+            57.0573923
+          ],
+          [
+            9.9264175,
+            57.0572182
+          ],
+          [
+            9.9261377,
+            57.0568992
+          ],
+          [
+            9.926002,
+            57.0568568
+          ],
+          [
+            9.9255006,
+            57.0568861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lille Borgergade",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9255006,
+            57.0568861
+          ],
+          [
+            9.9252028,
+            57.0569061
+          ],
+          [
+            9.9248534,
+            57.0569295
+          ],
+          [
+            9.9246022,
+            57.0569491
+          ],
+          [
+            9.9243121,
+            57.0569484
+          ],
+          [
+            9.9240345,
+            57.0569455
+          ],
+          [
+            9.9239026,
+            57.0569459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.926611,
+            57.0574388
+          ],
+          [
+            9.9270333,
+            57.0573275
+          ],
+          [
+            9.9274307,
+            57.0572416
+          ],
+          [
+            9.9277757,
+            57.0571901
+          ],
+          [
+            9.9279382,
+            57.0571658
+          ],
+          [
+            9.9293475,
+            57.0569784
+          ],
+          [
+            9.9300818,
+            57.0568895
+          ],
+          [
+            9.9305165,
+            57.0568419
+          ],
+          [
+            9.9308082,
+            57.0568153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9371117,
+            57.0587295
+          ],
+          [
+            9.9368506,
+            57.0586017
+          ],
+          [
+            9.935768,
+            57.0580659
+          ],
+          [
+            9.9350272,
+            57.0577044
+          ],
+          [
+            9.9346905,
+            57.0575512
+          ],
+          [
+            9.9343184,
+            57.0574038
+          ],
+          [
+            9.933732,
+            57.0571986
+          ],
+          [
+            9.9332821,
+            57.0570784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9367764,
+            57.0607188
+          ],
+          [
+            9.936257,
+            57.0609856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.936257,
+            57.0609856
+          ],
+          [
+            9.9358921,
+            57.0612359
+          ],
+          [
+            9.9358011,
+            57.0612881
+          ],
+          [
+            9.9357233,
+            57.0613227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9356226,
+            57.0612641
+          ],
+          [
+            9.9357045,
+            57.0612274
+          ],
+          [
+            9.9357998,
+            57.0611814
+          ],
+          [
+            9.936257,
+            57.0609856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9254401,
+            57.0577888
+          ],
+          [
+            9.925499,
+            57.0577552
+          ],
+          [
+            9.925567,
+            57.0577204
+          ],
+          [
+            9.9256001,
+            57.0577103
+          ],
+          [
+            9.9260213,
+            57.0575972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9260213,
+            57.0575972
+          ],
+          [
+            9.926611,
+            57.0574388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9253554,
+            57.0578323
+          ],
+          [
+            9.9254401,
+            57.0577888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9355897,
+            57.0613304
+          ],
+          [
+            9.9356226,
+            57.0612641
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9357233,
+            57.0613227
+          ],
+          [
+            9.9355897,
+            57.0613304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9379565,
+            57.0597865
+          ],
+          [
+            9.9379055,
+            57.0599275
+          ],
+          [
+            9.9378684,
+            57.0599793
+          ],
+          [
+            9.9377921,
+            57.0600859
+          ],
+          [
+            9.9376202,
+            57.0602378
+          ],
+          [
+            9.9374518,
+            57.060353
+          ],
+          [
+            9.9371005,
+            57.0605433
+          ],
+          [
+            9.9367764,
+            57.0607188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9380936,
+            57.0595918
+          ],
+          [
+            9.9382813,
+            57.0594625
+          ],
+          [
+            9.9383228,
+            57.0594339
+          ],
+          [
+            9.9385041,
+            57.0593072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9371117,
+            57.0587295
+          ],
+          [
+            9.9373852,
+            57.058843
+          ],
+          [
+            9.938237,
+            57.0591964
+          ],
+          [
+            9.9382919,
+            57.0592191
+          ],
+          [
+            9.9385041,
+            57.0593072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9380936,
+            57.0595918
+          ],
+          [
+            9.9380014,
+            57.0596608
+          ],
+          [
+            9.9379565,
+            57.0597865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9308082,
+            57.0568153
+          ],
+          [
+            9.9314811,
+            57.0567787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9332821,
+            57.0570784
+          ],
+          [
+            9.9331842,
+            57.0570376
+          ],
+          [
+            9.9330555,
+            57.0569545
+          ],
+          [
+            9.9329884,
+            57.0568677
+          ],
+          [
+            9.9329265,
+            57.0566987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9314811,
+            57.0567787
+          ],
+          [
+            9.9318954,
+            57.0567692
+          ],
+          [
+            9.9325205,
+            57.0567272
+          ],
+          [
+            9.9329265,
+            57.0566987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teisensvej",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9351689,
+            57.0565705
+          ],
+          [
+            9.9352301,
+            57.0568789
+          ],
+          [
+            9.9353309,
+            57.0573863
+          ],
+          [
+            9.9353555,
+            57.0575102
+          ]
+        ]
+      }
+    }
+  ]
+}

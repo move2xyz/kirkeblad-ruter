@@ -1,0 +1,717 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skrågade",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9225567,
+            57.0582228
+          ],
+          [
+            9.9226136,
+            57.0582155
+          ],
+          [
+            9.9226706,
+            57.0582081
+          ],
+          [
+            9.9228863,
+            57.0581506
+          ],
+          [
+            9.9230084,
+            57.0581483
+          ],
+          [
+            9.9235855,
+            57.0581841
+          ],
+          [
+            9.9236272,
+            57.0581867
+          ],
+          [
+            9.9238982,
+            57.0582303
+          ],
+          [
+            9.9241392,
+            57.0582829
+          ],
+          [
+            9.9246132,
+            57.0584395
+          ],
+          [
+            9.9247669,
+            57.0584903
+          ],
+          [
+            9.9250388,
+            57.0585376
+          ],
+          [
+            9.9252418,
+            57.0585738
+          ],
+          [
+            9.9253199,
+            57.0586205
+          ],
+          [
+            9.9253685,
+            57.0587096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9267577,
+            57.0583649
+          ],
+          [
+            9.9269556,
+            57.0584408
+          ],
+          [
+            9.9273838,
+            57.0585075
+          ],
+          [
+            9.9275413,
+            57.0585239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9265953,
+            57.0587361
+          ],
+          [
+            9.9264566,
+            57.0586854
+          ],
+          [
+            9.9263493,
+            57.0586344
+          ],
+          [
+            9.9262132,
+            57.0585505
+          ],
+          [
+            9.9259731,
+            57.0583707
+          ],
+          [
+            9.9257989,
+            57.0582161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9234748,
+            57.0574713
+          ],
+          [
+            9.9233272,
+            57.0574512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9224104,
+            57.0571294
+          ],
+          [
+            9.9225866,
+            57.0571853
+          ],
+          [
+            9.9226852,
+            57.057239
+          ],
+          [
+            9.9227744,
+            57.057274
+          ],
+          [
+            9.9228805,
+            57.0573016
+          ],
+          [
+            9.922965,
+            57.0573198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9243189,
+            57.0575925
+          ],
+          [
+            9.9240962,
+            57.0575605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9235061,
+            57.0573941
+          ],
+          [
+            9.9240215,
+            57.0574707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.922965,
+            57.0573198
+          ],
+          [
+            9.9232245,
+            57.0573563
+          ],
+          [
+            9.9233277,
+            57.0573687
+          ],
+          [
+            9.9235061,
+            57.0573941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9233272,
+            57.0574512
+          ],
+          [
+            9.9231689,
+            57.0574304
+          ],
+          [
+            9.9231022,
+            57.0574235
+          ],
+          [
+            9.9229681,
+            57.0574054
+          ],
+          [
+            9.9228235,
+            57.0573799
+          ],
+          [
+            9.9227259,
+            57.057356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9255528,
+            57.0578492
+          ],
+          [
+            9.9255989,
+            57.0578763
+          ],
+          [
+            9.9256359,
+            57.0579076
+          ],
+          [
+            9.925666,
+            57.0579397
+          ],
+          [
+            9.9257579,
+            57.0580601
+          ],
+          [
+            9.9258927,
+            57.0581874
+          ],
+          [
+            9.9259966,
+            57.0582785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9227259,
+            57.057356
+          ],
+          [
+            9.9225805,
+            57.0573099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9225805,
+            57.0573099
+          ],
+          [
+            9.9224569,
+            57.0572439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9264204,
+            57.0585797
+          ],
+          [
+            9.9265384,
+            57.0586329
+          ],
+          [
+            9.9266632,
+            57.0586771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9257989,
+            57.0582161
+          ],
+          [
+            9.9255698,
+            57.0580053
+          ],
+          [
+            9.9255052,
+            57.0579492
+          ],
+          [
+            9.9254461,
+            57.057897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9254461,
+            57.057897
+          ],
+          [
+            9.9253554,
+            57.0578323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9248741,
+            57.0576261
+          ],
+          [
+            9.9251601,
+            57.0576846
+          ],
+          [
+            9.9252587,
+            57.0577127
+          ],
+          [
+            9.9253508,
+            57.0577494
+          ],
+          [
+            9.9254401,
+            57.0577888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9247212,
+            57.0576345
+          ],
+          [
+            9.9243189,
+            57.0575925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9253554,
+            57.0578323
+          ],
+          [
+            9.9252838,
+            57.0577961
+          ],
+          [
+            9.9251998,
+            57.0577643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9251998,
+            57.0577643
+          ],
+          [
+            9.9250927,
+            57.0577293
+          ],
+          [
+            9.9249908,
+            57.0576987
+          ],
+          [
+            9.9248593,
+            57.0576637
+          ],
+          [
+            9.9247212,
+            57.0576345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9246736,
+            57.0575904
+          ],
+          [
+            9.9248741,
+            57.0576261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9242605,
+            57.0575313
+          ],
+          [
+            9.9246736,
+            57.0575904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9240215,
+            57.0574707
+          ],
+          [
+            9.9240909,
+            57.0574865
+          ],
+          [
+            9.9241666,
+            57.0575105
+          ],
+          [
+            9.9242605,
+            57.0575313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9240962,
+            57.0575605
+          ],
+          [
+            9.9239454,
+            57.0575389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9239454,
+            57.0575389
+          ],
+          [
+            9.9235535,
+            57.0574827
+          ],
+          [
+            9.9234748,
+            57.0574713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9259966,
+            57.0582785
+          ],
+          [
+            9.9263111,
+            57.0585162
+          ],
+          [
+            9.9264204,
+            57.0585797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østerbrogade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9254401,
+            57.0577888
+          ],
+          [
+            9.9255528,
+            57.0578492
+          ]
+        ]
+      }
+    }
+  ]
+}

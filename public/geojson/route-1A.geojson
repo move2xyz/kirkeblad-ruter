@@ -1,0 +1,699 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prinsessegade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9293026,
+            57.0592524
+          ],
+          [
+            9.9292855,
+            57.0590938
+          ],
+          [
+            9.9292622,
+            57.0590428
+          ],
+          [
+            9.9290215,
+            57.0587134
+          ],
+          [
+            9.9288459,
+            57.0584578
+          ],
+          [
+            9.9279382,
+            57.0571658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kongensgade",
+        "streetIndex": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9309313,
+            57.0597508
+          ],
+          [
+            9.930993,
+            57.0596855
+          ],
+          [
+            9.931025,
+            57.0596276
+          ],
+          [
+            9.9310306,
+            57.0595618
+          ],
+          [
+            9.930796,
+            57.0592174
+          ],
+          [
+            9.9307457,
+            57.0591359
+          ],
+          [
+            9.9306891,
+            57.0590444
+          ],
+          [
+            9.930537,
+            57.0588109
+          ],
+          [
+            9.9304593,
+            57.0586918
+          ],
+          [
+            9.930292,
+            57.0584351
+          ],
+          [
+            9.9300005,
+            57.0579876
+          ],
+          [
+            9.9298241,
+            57.0577169
+          ],
+          [
+            9.9297316,
+            57.057575
+          ],
+          [
+            9.929579,
+            57.0573407
+          ],
+          [
+            9.9293475,
+            57.0569784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cementvej",
+        "streetIndex": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9365205,
+            57.0617632
+          ],
+          [
+            9.9385524,
+            57.061405
+          ],
+          [
+            9.9399602,
+            57.0611421
+          ],
+          [
+            9.9415313,
+            57.0608554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborgvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9405329,
+            57.060207
+          ],
+          [
+            9.9408964,
+            57.0604098
+          ],
+          [
+            9.9416707,
+            57.0607886
+          ],
+          [
+            9.9418203,
+            57.0608625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborgvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9399737,
+            57.0599157
+          ],
+          [
+            9.9401917,
+            57.0598068
+          ],
+          [
+            9.940373,
+            57.0597559
+          ],
+          [
+            9.9412211,
+            57.0596337
+          ],
+          [
+            9.9430835,
+            57.059363
+          ],
+          [
+            9.9464763,
+            57.0587804
+          ],
+          [
+            9.9481793,
+            57.0584709
+          ],
+          [
+            9.9491604,
+            57.058919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborgvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9464763,
+            57.0587804
+          ],
+          [
+            9.9466267,
+            57.0590193
+          ],
+          [
+            9.9469626,
+            57.0590917
+          ],
+          [
+            9.9472034,
+            57.0595397
+          ],
+          [
+            9.947045,
+            57.0597775
+          ],
+          [
+            9.9461767,
+            57.0599153
+          ],
+          [
+            9.9459676,
+            57.0601118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborgvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9396201,
+            57.059768
+          ],
+          [
+            9.9387722,
+            57.0594151
+          ],
+          [
+            9.9387219,
+            57.0593941
+          ],
+          [
+            9.9385041,
+            57.0593072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborgvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9396201,
+            57.059768
+          ],
+          [
+            9.939732,
+            57.0598114
+          ],
+          [
+            9.9399737,
+            57.0599157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborgvej",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9399737,
+            57.0599157
+          ],
+          [
+            9.9405329,
+            57.060207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9326834,
+            57.0554406
+          ],
+          [
+            9.9329855,
+            57.0554304
+          ],
+          [
+            9.9335316,
+            57.055412
+          ],
+          [
+            9.9339634,
+            57.0553682
+          ],
+          [
+            9.9343898,
+            57.0553465
+          ],
+          [
+            9.9346942,
+            57.055343
+          ],
+          [
+            9.9349741,
+            57.0553348
+          ],
+          [
+            9.9352818,
+            57.0553335
+          ],
+          [
+            9.9355043,
+            57.0553325
+          ],
+          [
+            9.9359516,
+            57.0553061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9359516,
+            57.0553061
+          ],
+          [
+            9.9358854,
+            57.0548815
+          ],
+          [
+            9.9358582,
+            57.0547074
+          ],
+          [
+            9.9358299,
+            57.0544949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9358582,
+            57.0547074
+          ],
+          [
+            9.9362401,
+            57.0546889
+          ],
+          [
+            9.9369831,
+            57.054653
+          ],
+          [
+            9.9373548,
+            57.054635
+          ],
+          [
+            9.9375953,
+            57.0546234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9380986,
+            57.0545991
+          ],
+          [
+            9.9380476,
+            57.0542423
+          ],
+          [
+            9.9373475,
+            57.0540748
+          ],
+          [
+            9.9369291,
+            57.0540902
+          ],
+          [
+            9.9368375,
+            57.0540952
+          ],
+          [
+            9.9368247,
+            57.0539834
+          ],
+          [
+            9.9366912,
+            57.0539853
+          ],
+          [
+            9.9360895,
+            57.0538596
+          ],
+          [
+            9.9357449,
+            57.0538731
+          ],
+          [
+            9.9356141,
+            57.0538787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9364073,
+            57.0552781
+          ],
+          [
+            9.9370783,
+            57.0552369
+          ],
+          [
+            9.9383147,
+            57.0551897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9358299,
+            57.0544949
+          ],
+          [
+            9.9357449,
+            57.0538731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9359516,
+            57.0553061
+          ],
+          [
+            9.9364073,
+            57.0552781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9369831,
+            57.054653
+          ],
+          [
+            9.9370177,
+            57.0548654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9375953,
+            57.0546234
+          ],
+          [
+            9.9380986,
+            57.0545991
+          ],
+          [
+            9.9381613,
+            57.0545961
+          ],
+          [
+            9.9382198,
+            57.0545933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9369291,
+            57.0540902
+          ],
+          [
+            9.9369831,
+            57.054653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9356141,
+            57.0538787
+          ],
+          [
+            9.9355928,
+            57.0537257
+          ],
+          [
+            9.9355072,
+            57.0537272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.937053,
+            57.0550819
+          ],
+          [
+            9.9370783,
+            57.0552369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stigsborg Brygge",
+        "streetIndex": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9370177,
+            57.0548654
+          ],
+          [
+            9.937053,
+            57.0550819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kronprinsens Allé",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9333567,
+          57.0588488
+        ]
+      }
+    }
+  ]
+}

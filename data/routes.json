@@ -1,0 +1,554 @@
+[
+  {
+    "id": "1",
+    "sortering": 1,
+    "antalBlade": 220,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Niels Lykkesgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Nordre Skansevej",
+        "details": "lige nr. 2-30 og 52-56 ulige nr. 1-33"
+      },
+      {
+        "type": "street",
+        "name": "Sandagervej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kornbakken",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Korsagervej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Lerumbakken",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Levisvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Irisvej",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "1A",
+    "sortering": 2,
+    "antalBlade": 450,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Prinsessegade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Præstevænget",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Stigsborgvej",
+        "details": "ulige numre"
+      },
+      {
+        "type": "street",
+        "name": "Holger Trydesvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kongensgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kronprinsens Allé",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Cementvej",
+        "details": "ulige"
+      },
+      {
+        "type": "street",
+        "name": "Stigsborg Brygge",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": "Stigsborg Brygge \n(dørkode #2412)"
+  },
+  {
+    "id": "2",
+    "sortering": 3,
+    "antalBlade": 490,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Ane Dams gade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Bjerggade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Bondropsgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Galstersgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kjærulfsgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Lars Dyrskjøts Vej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Skansevej",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "3",
+    "sortering": 4,
+    "antalBlade": 300,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Fuglsangsvej",
+        "details": "ulige nr. 1-5"
+      },
+      {
+        "type": "street",
+        "name": "Skovvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Jens Langes gade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Spiesgade",
+        "details": "nord for Vestergade"
+      },
+      {
+        "type": "street",
+        "name": "Lindholmsvej",
+        "details": "lige nr. 2-50 og ulige 3-31"
+      }
+    ],
+    "notes": [
+      "Plejehjemmet Elmely"
+    ],
+    "koder": "Skovvej: Dørkoder til lejligheder \npå v. side ved boligselskabet: \nv. side før p-plads: \n22 +husnummer, rundt om p-pladsen:\n 33+husnummer"
+  },
+  {
+    "id": "3A",
+    "sortering": 5,
+    "antalBlade": 300,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Østerbrogade",
+        "details": "9-93"
+      },
+      {
+        "type": "street",
+        "name": "Østerbrogade",
+        "details": "2-154"
+      },
+      {
+        "type": "street",
+        "name": "Skrågade",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": "Skrågade nr. 35 \nKode: 9435"
+  },
+  {
+    "id": "5",
+    "sortering": 6,
+    "antalBlade": 200,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Thovald Jensensvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Bakkelygade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kapelvej",
+        "details": "lige nr. 2-32 ulige nr. 1-43"
+      },
+      {
+        "type": "street",
+        "name": "Rolighedsvej",
+        "details": "2 -60 og ulige nr. 1-55"
+      },
+      {
+        "type": "street",
+        "name": "Kirke Allé",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kirkegade",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "5A",
+    "sortering": 7,
+    "antalBlade": 300,
+    "streets": [
+      {
+        "type": "street",
+        "name": "A.C. Jacobsensvej",
+        "details": "lige nr. 2-22 ulige nr. 1-19"
+      },
+      {
+        "type": "street",
+        "name": "P.P. Hedegårdsvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Thuensvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Toftevej",
+        "details": "lige nr. 54-74 ulige nr. 17-25 og nr. 39"
+      },
+      {
+        "type": "street",
+        "name": "Nymarksvej",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "6",
+    "sortering": 8,
+    "antalBlade": 350,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Dronningsgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Dronnings Tværgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Godthåbsgade",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "7",
+    "sortering": 9,
+    "antalBlade": 450,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Gammel Østergade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kamiliegården",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Torvegade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Torvet 6",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Tinghusgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Brotorvet",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Sankt Pedersgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Bryggergade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Havnegade",
+        "details": "alle boliger på pierren"
+      }
+    ],
+    "notes": [],
+    "koder": "Torvet 6 - ring på hos \nGerda Andersen/ \nIvar Fanø eller \nBirgit Jacobsen"
+  },
+  {
+    "id": "8",
+    "sortering": 10,
+    "antalBlade": 600,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Digmansvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Teisensvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Engvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Lille Borgergade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Mølmdalsvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Limfjordsvej",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "8A",
+    "sortering": 11,
+    "antalBlade": 600,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Stigsborg Bygade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Stigsborg Bakke",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Parkvænget",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Stigsborg Parkvej",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "9",
+    "sortering": 12,
+    "antalBlade": 360,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Vestergade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Søvangen",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Kjeldsgade",
+        "details": null
+      }
+    ],
+    "notes": [
+      "Ella Marie plejehjemmet"
+    ],
+    "koder": null,
+    "routeNote": "Postkasser lige indenfor døren \nmod Vestergade 36, hvis der er låst \nkan man komme ind fra p-pladsen \npå den anden side af bygningen"
+  },
+  {
+    "id": "10A",
+    "sortering": 13,
+    "antalBlade": 300,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Vestergade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Rømershave",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Nygade",
+        "details": null
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "4",
+    "sortering": 14,
+    "antalBlade": 250,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Østergade",
+        "details": "lige nr. 22-82 ulige nr. 27-71"
+      },
+      {
+        "type": "street",
+        "name": "Zieglersvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Garvergade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Mellem Broerne",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Bejlerstræde",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Smedegade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Strandgade",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Søndre Kongegade",
+        "details": "lige nr. 8-12"
+      }
+    ],
+    "notes": [],
+    "koder": null
+  },
+  {
+    "id": "10",
+    "sortering": 15,
+    "antalBlade": 900,
+    "streets": [
+      {
+        "type": "street",
+        "name": "Sundby Brygge",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Carl Klitgårdsvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Laurits Haugesvej",
+        "details": null
+      },
+      {
+        "type": "street",
+        "name": "Spiesgade",
+        "details": "syd for Vestergade"
+      }
+    ],
+    "notes": [
+      "50 blade afleveres til Fremtidens Plejehjem"
+    ],
+    "koder": null
+  }
+]

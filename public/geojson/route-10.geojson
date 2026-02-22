@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundby Brygge",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9167488,
+            57.0582578
+          ],
+          [
+            9.9171672,
+            57.0586116
+          ],
+          [
+            9.917734,
+            57.059091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl Klitgårdsvej",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9164513,
+            57.0595293
+          ],
+          [
+            9.9163052,
+            57.0594449
+          ],
+          [
+            9.9161803,
+            57.0593346
+          ],
+          [
+            9.9158686,
+            57.0590595
+          ],
+          [
+            9.915617,
+            57.0588373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl Klitgårdsvej",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9138398,
+            57.060422
+          ],
+          [
+            9.9150966,
+            57.0599858
+          ],
+          [
+            9.9160614,
+            57.0596607
+          ],
+          [
+            9.9163315,
+            57.0595697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl Klitgårdsvej",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9143101,
+            57.0592857
+          ],
+          [
+            9.9146867,
+            57.0596268
+          ],
+          [
+            9.914753,
+            57.0596869
+          ],
+          [
+            9.9149878,
+            57.0598995
+          ],
+          [
+            9.9150547,
+            57.0599601
+          ],
+          [
+            9.9150966,
+            57.0599858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl Klitgårdsvej",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9165591,
+            57.0594925
+          ],
+          [
+            9.9171918,
+            57.0592763
+          ],
+          [
+            9.917734,
+            57.059091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl Klitgårdsvej",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9163315,
+            57.0595697
+          ],
+          [
+            9.9164513,
+            57.0595293
+          ],
+          [
+            9.9165591,
+            57.0594925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spiesgade",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9155499,
+            57.061938
+          ],
+          [
+            9.9153779,
+            57.0617724
+          ],
+          [
+            9.9149513,
+            57.0613616
+          ],
+          [
+            9.9148964,
+            57.0613138
+          ],
+          [
+            9.914562,
+            57.0610235
+          ],
+          [
+            9.914312,
+            57.0608049
+          ],
+          [
+            9.9139843,
+            57.0605196
+          ],
+          [
+            9.9138987,
+            57.0604475
+          ],
+          [
+            9.9138398,
+            57.060422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spiesgade",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9138398,
+            57.060422
+          ],
+          [
+            9.9137936,
+            57.0603986
+          ],
+          [
+            9.9137269,
+            57.0603441
+          ],
+          [
+            9.9135678,
+            57.0602133
+          ],
+          [
+            9.9135347,
+            57.060187
+          ],
+          [
+            9.913408,
+            57.0600834
+          ],
+          [
+            9.9132576,
+            57.0599605
+          ],
+          [
+            9.9130993,
+            57.0598311
+          ],
+          [
+            9.9128818,
+            57.0596533
+          ]
+        ]
+      }
+    }
+  ]
+}

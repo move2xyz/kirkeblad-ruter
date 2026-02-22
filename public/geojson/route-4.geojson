@@ -1,0 +1,985 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9348082,
+            57.0609308
+          ],
+          [
+            9.9350479,
+            57.0610102
+          ],
+          [
+            9.9353363,
+            57.0611058
+          ],
+          [
+            9.9354384,
+            57.061157
+          ],
+          [
+            9.935523,
+            57.0612058
+          ],
+          [
+            9.9356226,
+            57.0612641
+          ],
+          [
+            9.9357233,
+            57.0613227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9339496,
+            57.0606681
+          ],
+          [
+            9.9338722,
+            57.0607383
+          ],
+          [
+            9.9338034,
+            57.0608367
+          ],
+          [
+            9.9338133,
+            57.0608958
+          ],
+          [
+            9.9338593,
+            57.0609527
+          ],
+          [
+            9.9340689,
+            57.0611163
+          ],
+          [
+            9.9342061,
+            57.0613815
+          ],
+          [
+            9.9341873,
+            57.0615017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.938124,
+            57.0633181
+          ],
+          [
+            9.9378955,
+            57.0631435
+          ],
+          [
+            9.937591,
+            57.0629135
+          ],
+          [
+            9.9374322,
+            57.0627528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.937547,
+            57.062711
+          ],
+          [
+            9.9377894,
+            57.0628848
+          ],
+          [
+            9.9379803,
+            57.0630227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9357233,
+            57.0613227
+          ],
+          [
+            9.93586,
+            57.0614218
+          ],
+          [
+            9.9360585,
+            57.0615809
+          ],
+          [
+            9.9363327,
+            57.0618037
+          ],
+          [
+            9.936468,
+            57.0619048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9388136,
+            57.0636495
+          ],
+          [
+            9.9385234,
+            57.0635195
+          ],
+          [
+            9.9383019,
+            57.063414
+          ],
+          [
+            9.938124,
+            57.0633181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9368186,
+            57.0622918
+          ],
+          [
+            9.9363552,
+            57.0619457
+          ],
+          [
+            9.9362096,
+            57.0618314
+          ],
+          [
+            9.9357792,
+            57.0614671
+          ],
+          [
+            9.9357665,
+            57.0614568
+          ],
+          [
+            9.9356506,
+            57.0613739
+          ],
+          [
+            9.9355897,
+            57.0613304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9315516,
+            57.0599411
+          ],
+          [
+            9.9309313,
+            57.0597508
+          ],
+          [
+            9.930588,
+            57.0596433
+          ],
+          [
+            9.9299014,
+            57.0594345
+          ],
+          [
+            9.9295793,
+            57.0593366
+          ],
+          [
+            9.9293026,
+            57.0592524
+          ],
+          [
+            9.9284879,
+            57.059015
+          ],
+          [
+            9.9282584,
+            57.0589552
+          ],
+          [
+            9.9280851,
+            57.0589168
+          ],
+          [
+            9.9279191,
+            57.0588852
+          ],
+          [
+            9.9277635,
+            57.0588601
+          ],
+          [
+            9.9275443,
+            57.0588353
+          ],
+          [
+            9.9272056,
+            57.0588017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9384022,
+            57.0632691
+          ],
+          [
+            9.9389116,
+            57.0635496
+          ],
+          [
+            9.9392862,
+            57.0636979
+          ],
+          [
+            9.9395971,
+            57.0638034
+          ],
+          [
+            9.9396551,
+            57.0638286
+          ],
+          [
+            9.9397045,
+            57.063857
+          ],
+          [
+            9.939761,
+            57.0639179
+          ],
+          [
+            9.9397938,
+            57.063976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.936468,
+            57.0619048
+          ],
+          [
+            9.9365706,
+            57.0619815
+          ],
+          [
+            9.9371529,
+            57.062417
+          ],
+          [
+            9.9373306,
+            57.0625524
+          ],
+          [
+            9.9373929,
+            57.0626003
+          ],
+          [
+            9.937547,
+            57.062711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9374322,
+            57.0627528
+          ],
+          [
+            9.9372843,
+            57.0626438
+          ],
+          [
+            9.9370385,
+            57.0624581
+          ],
+          [
+            9.9368186,
+            57.0622918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9355897,
+            57.0613304
+          ],
+          [
+            9.9354449,
+            57.061246
+          ],
+          [
+            9.9352686,
+            57.0611468
+          ],
+          [
+            9.9348082,
+            57.0609308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.926926,
+            57.0587463
+          ],
+          [
+            9.9272056,
+            57.0588017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9266632,
+            57.0586771
+          ],
+          [
+            9.9267954,
+            57.0587202
+          ],
+          [
+            9.926926,
+            57.0587463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9379803,
+            57.0630227
+          ],
+          [
+            9.938299,
+            57.0632155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9272056,
+            57.0588017
+          ],
+          [
+            9.9268871,
+            57.0587946
+          ],
+          [
+            9.9267778,
+            57.0587788
+          ],
+          [
+            9.9266738,
+            57.0587572
+          ],
+          [
+            9.9265953,
+            57.0587361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9321559,
+            57.0601251
+          ],
+          [
+            9.9319885,
+            57.0600741
+          ],
+          [
+            9.9317437,
+            57.0599996
+          ],
+          [
+            9.9315516,
+            57.0599411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9348082,
+            57.0609308
+          ],
+          [
+            9.9347061,
+            57.0608999
+          ],
+          [
+            9.9346544,
+            57.0608841
+          ],
+          [
+            9.9339496,
+            57.0606681
+          ],
+          [
+            9.9334943,
+            57.0605286
+          ],
+          [
+            9.9326161,
+            57.060263
+          ],
+          [
+            9.9321559,
+            57.0601251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Østergade",
+        "streetIndex": 0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.938299,
+            57.0632155
+          ],
+          [
+            9.9384022,
+            57.0632691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garvergade",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9191188,
+            57.0603154
+          ],
+          [
+            9.9192308,
+            57.0603263
+          ],
+          [
+            9.9193261,
+            57.0603237
+          ],
+          [
+            9.9200088,
+            57.0602296
+          ],
+          [
+            9.9202335,
+            57.0601878
+          ],
+          [
+            9.9207177,
+            57.0600403
+          ],
+          [
+            9.9211869,
+            57.0599037
+          ],
+          [
+            9.9213372,
+            57.05984
+          ],
+          [
+            9.9216245,
+            57.0597164
+          ],
+          [
+            9.9221555,
+            57.0595283
+          ],
+          [
+            9.9223623,
+            57.0594549
+          ],
+          [
+            9.9226802,
+            57.0593487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garvergade",
+        "streetIndex": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9208876,
+            57.0596425
+          ],
+          [
+            9.9211869,
+            57.0599037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandgade",
+        "streetIndex": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9220627,
+            57.0576827
+          ],
+          [
+            9.9220277,
+            57.0576556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandgade",
+        "streetIndex": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9215759,
+            57.0572529
+          ],
+          [
+            9.9214049,
+            57.0570984
+          ],
+          [
+            9.9213925,
+            57.0570874
+          ],
+          [
+            9.9213649,
+            57.0570626
+          ],
+          [
+            9.9213431,
+            57.057043
+          ],
+          [
+            9.9211123,
+            57.0568349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandgade",
+        "streetIndex": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9220277,
+            57.0576556
+          ],
+          [
+            9.9219033,
+            57.0575542
+          ],
+          [
+            9.9218478,
+            57.0575031
+          ],
+          [
+            9.9216417,
+            57.0573134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandgade",
+        "streetIndex": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9216417,
+            57.0573134
+          ],
+          [
+            9.9215759,
+            57.0572529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smedegade",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9221555,
+            57.0595283
+          ],
+          [
+            9.9219092,
+            57.0591478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smedegade",
+        "streetIndex": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9219092,
+            57.0591478
+          ],
+          [
+            9.9218592,
+            57.0590706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zieglersvej",
+        "streetIndex": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9321559,
+            57.0601251
+          ],
+          [
+            9.932074,
+            57.0601978
+          ],
+          [
+            9.9319748,
+            57.0603416
+          ],
+          [
+            9.9323478,
+            57.060997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mellem Broerne",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9224789,
+            57.0564085
+          ],
+          [
+            9.9224079,
+            57.0564103
+          ],
+          [
+            9.9223289,
+            57.0564259
+          ],
+          [
+            9.9221376,
+            57.0564919
+          ],
+          [
+            9.9219947,
+            57.0565413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mellem Broerne",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9211123,
+            57.0568349
+          ],
+          [
+            9.9208817,
+            57.0569107
+          ],
+          [
+            9.920375,
+            57.0570771
+          ],
+          [
+            9.9193762,
+            57.0574052
+          ],
+          [
+            9.9167488,
+            57.0582578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mellem Broerne",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9216687,
+            57.0566479
+          ],
+          [
+            9.9214462,
+            57.0567232
+          ],
+          [
+            9.9211123,
+            57.0568349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mellem Broerne",
+        "streetIndex": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9219947,
+            57.0565413
+          ],
+          [
+            9.9216687,
+            57.0566479
+          ]
+        ]
+      }
+    }
+  ]
+}
