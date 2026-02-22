@@ -1032,6 +1032,17 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plejehjemmet Elmely",
+        "poi": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.9159, 57.0626]
+      }
     }
   ]
 }
