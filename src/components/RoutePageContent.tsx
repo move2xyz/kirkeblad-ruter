@@ -44,25 +44,12 @@ export default function RoutePageContent({ route }: RoutePageContentProps) {
         </section>
       )}
 
-      {/* Door Codes */}
+      {/* Door Codes hint */}
       {route.koder && (
         <section className="mb-6">
-          <details className="group">
-            <summary className="text-lg font-semibold text-slate-800 cursor-pointer select-none flex items-center gap-1">
-              <svg
-                className="w-5 h-5 transition-transform group-open:rotate-90"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-              </svg>
-              Dørkoder
-            </summary>
-            <div className="mt-2 bg-red-50 border border-red-200 rounded-lg px-4 py-3 text-sm text-red-900 whitespace-pre-line">
-              {route.koder}
-            </div>
-          </details>
+          <div className="bg-amber-50 border border-amber-200 rounded-lg px-4 py-3 text-sm text-amber-900">
+            Denne rute har dørkoder — de står på Dymo-labelen på din kasse.
+          </div>
         </section>
       )}
 
