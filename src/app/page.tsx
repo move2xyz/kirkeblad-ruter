@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import RouteCard from "@/components/RouteCard";
 import type { Route } from "@/types";
 import routesData from "../../data/routes.json";
@@ -24,6 +25,15 @@ export default function Home() {
           Nørresundby &middot; {routes.length} ruter
         </p>
       </header>
+      <Link
+        href="/kort"
+        className="block mb-4 rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm hover:bg-slate-50 transition-colors text-center"
+      >
+        <span className="text-sm font-medium text-slate-700">
+          Se alle ruter på ét kort
+        </span>
+        <span className="text-xs text-slate-400 ml-1">&rarr;</span>
+      </Link>
       <div className="grid gap-3">
         {routes.map((route) => (
           <RouteCard key={route.id} route={route} />
